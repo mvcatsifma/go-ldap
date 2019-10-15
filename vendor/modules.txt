@@ -1,0 +1,14 @@
+# golang.org/x/text v0.3.2
+golang.org/x/text/encoding/unicode
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/runes
+golang.org/x/text/transform
+# gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d
+gopkg.in/asn1-ber.v1
+# gopkg.in/korylprince/go-ad-auth.v2 v2.2.0
+gopkg.in/korylprince/go-ad-auth.v2
+# gopkg.in/ldap.v3 v3.0.3
+gopkg.in/ldap.v3
